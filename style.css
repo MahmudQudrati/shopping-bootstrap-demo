@@ -1,0 +1,10 @@
+.btn-design {
+  background: linear-gradient(to top, #ff247a, #ff5499);
+  color: white;
+  padding: 10px 30px;
+}
+.btn-design-subscribe {
+  background: linear-gradient(to top, #ff247a, #ff5499);
+  color: white;
+  padding: 10px 20px;
+}
